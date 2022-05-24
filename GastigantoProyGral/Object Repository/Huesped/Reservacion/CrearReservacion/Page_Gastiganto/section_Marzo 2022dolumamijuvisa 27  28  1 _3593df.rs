@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>section_Marzo 2022dolumamijuvisa 27  28  1 _3593df</name>
+   <tag></tag>
+   <elementGuidId>2d3a5a0f-72c8-4e30-a313-8168f2d1c4a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_content']/div/div/app-dashboard/div/div[2]/app-reservar/div[2]/div/div/airbnb-calendar/div/div/section</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>section.calendar</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>section</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>calendar</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Marzo 2022dolumamijuvisa 27  28  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  21  22  23  24  25  26  27  28  29  30  31 </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_content&quot;)/div[@class=&quot;d-flex flex-column-fluid ng-star-inserted&quot;]/div[@class=&quot;container-fluid&quot;]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;d-flex flex-row&quot;]/div[@class=&quot;flex-row-fluid ml-lg-8&quot;]/app-reservar[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;reservar-container&quot;]/div[@class=&quot;item-container-reservar&quot;]/div[@class=&quot;airbnb-container&quot;]/airbnb-calendar[1]/div[@class=&quot;airbnb-calendar-container ng-star-inserted&quot;]/div[@class=&quot;airbnb-calendar&quot;]/section[@class=&quot;calendar&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_content']/div/div/app-dashboard/div/div[2]/app-reservar/div[2]/div/div/airbnb-calendar/div/div/section</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Niños'])[1]/following::section[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adultos'])[1]/following::section[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//section[(text() = 'Marzo 2022dolumamijuvisa 27  28  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  21  22  23  24  25  26  27  28  29  30  31 ' or . = 'Marzo 2022dolumamijuvisa 27  28  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  21  22  23  24  25  26  27  28  29  30  31 ')]</value>
+   </webElementXpaths>
+</WebElementEntity>

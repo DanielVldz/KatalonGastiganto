@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Todas las plazasSelecciona una plaza</name>
+   <tag></tag>
+   <elementGuidId>cdbeb9d3-8535-4cce-8bc6-4eae0fd7f9d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-form-field-wrapper</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_content']/div/kt-usuarios/kt-portlet/div/kt-portlet-body/div[2]/section/form/div/div/mat-form-field/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9ded8afc-80d4-4ddc-a755-aefc7a1cdced</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-form-field-wrapper</value>
+      <webElementGuid>0af21c18-d042-46d9-961e-2e615af3c092</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Todas las plazasSelecciona una plaza</value>
+      <webElementGuid>a4640e4c-ce40-4184-9433-df8b31985445</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_content&quot;)/div[@class=&quot;kt-container kt-grid__item kt-grid__item--fluid kt-container--fluid&quot;]/kt-usuarios[@class=&quot;ng-star-inserted&quot;]/kt-portlet[1]/div[@class=&quot;kt-portlet&quot;]/kt-portlet-body[@class=&quot;kt-portlet__body&quot;]/div[@class=&quot;text-center pl-4 pr-4&quot;]/section[1]/form[@class=&quot;kt-form ng-pristine ng-invalid ng-touched&quot;]/div[@class=&quot;c-consulta&quot;]/div[1]/mat-form-field[@class=&quot;mat-form-field ng-tns-c4-3 mat-primary mat-form-field-type-mat-select mat-form-field-appearance-legacy mat-form-field-can-float mat-form-field-has-label mat-form-field-hide-placeholder ng-pristine ng-valid mat-form-field-should-float ng-touched&quot;]/div[@class=&quot;mat-form-field-wrapper&quot;]</value>
+      <webElementGuid>1e2260cc-e4e6-49d7-af48-41cfe68bea9d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_content']/div/kt-usuarios/kt-portlet/div/kt-portlet-body/div[2]/section/form/div/div/mat-form-field/div</value>
+      <webElementGuid>296975c7-f4ed-4f01-ac6e-554aa3ef995e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nueva reservación'])[1]/following::div[7]</value>
+      <webElementGuid>650b7852-5172-4126-a534-8065fa1eb764</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='abril 2022'])[1]/following::div[8]</value>
+      <webElementGuid>b5673056-60ca-4296-befa-847f0201a5a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-form-field/div</value>
+      <webElementGuid>69b3d950-cc91-4b35-b387-cacf803f93fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Todas las plazasSelecciona una plaza' or . = 'Todas las plazasSelecciona una plaza')]</value>
+      <webElementGuid>2729b2b5-d636-4f29-b745-343ade71b457</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

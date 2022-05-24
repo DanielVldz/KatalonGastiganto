@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Listado</name>
+   <tag></tag>
+   <elementGuidId>b1c525ea-ad11-4e03-b729-fd05be50753a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='mat-button-toggle-2-button']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-button-toggle-2-button > div.mat-button-toggle-label-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>209722c0-3c40-4eea-8ea0-597da3640c5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-button-toggle-label-content</value>
+      <webElementGuid>a45ca204-b011-47cf-b5eb-133dab49fe81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Listado </value>
+      <webElementGuid>62f9cd8d-4dd8-4856-b7e2-e6d4f0128128</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-button-toggle-2-button&quot;)/div[@class=&quot;mat-button-toggle-label-content&quot;]</value>
+      <webElementGuid>5aa06fce-2436-4c63-9701-e3643cc9b38d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='mat-button-toggle-2-button']/div</value>
+      <webElementGuid>4baa786c-0665-405a-b0b9-51b8e0acb619</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Calendario'])[1]/following::div[3]</value>
+      <webElementGuid>f29bdebc-55d9-400c-8ec3-9a325d30bf51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cerrar sesión'])[1]/following::div[11]</value>
+      <webElementGuid>0627ded4-da52-4a29-b122-4915e97dae8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='abril 2022'])[1]/preceding::div[4]</value>
+      <webElementGuid>d5b6ed92-152a-4bd2-8a9e-f0abbe7f7a1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Todas las plazas'])[1]/preceding::div[7]</value>
+      <webElementGuid>a98f19a3-9737-4442-a71a-8e81bf5629ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Listado']/parent::*</value>
+      <webElementGuid>e5da20b7-4237-478d-9170-d78fb10e9ada</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-button-toggle[2]/button/div</value>
+      <webElementGuid>4147b19c-93b3-4891-9ef5-a03e833ee1d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Listado ' or . = 'Listado ')]</value>
+      <webElementGuid>1ed12b48-d129-4da2-bdef-f4a80d72b4c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Marzo 2022dolumamijuvisa 27  28  1  2  _118b0f</name>
+   <tag></tag>
+   <elementGuidId>37c169b8-b42e-4fef-9d47-ce2df8b590b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_content']/div/div/app-dashboard/div/div[2]/app-reservar/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.reservar-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>reservar-container</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Marzo 2022dolumamijuvisa 27  28  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  21  22  23  24  25  26  27  28  29  30  31 Abril 2022dolumamijuvisa 27  28  29  30  31  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  21  22  23  24  25  26  27  28  29  30 Limpiar selecciónlocation_onprice_checkPortico6 Adultos, 2 Niños · Shampoo · Elementos básicos · Plancha · TV · Aire acondicionado · Wifi · Cocina$3,500.00 MXN/ noche $17,500.00 MXN en total location_onprice_checkPacifika6 Adultos, 2 Niños · Shampoo · Elementos básicos · Plancha · TV · Aire acondicionado · Wifi · Cocina$3,500.00 MXN/ noche $17,500.00 MXN en total </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_content&quot;)/div[@class=&quot;d-flex flex-column-fluid ng-star-inserted&quot;]/div[@class=&quot;container-fluid&quot;]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;d-flex flex-row&quot;]/div[@class=&quot;flex-row-fluid ml-lg-8&quot;]/app-reservar[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;reservar-container&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_content']/div/div/app-dashboard/div/div[2]/app-reservar/div[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Estancias en Mazatlán'])[1]/following::div[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Niños'])[1]/following::div[5]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-reservar/div[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Marzo 2022dolumamijuvisa 27  28  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  21  22  23  24  25  26  27  28  29  30  31 Abril 2022dolumamijuvisa 27  28  29  30  31  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  21  22  23  24  25  26  27  28  29  30 Limpiar selecciónlocation_onprice_checkPortico6 Adultos, 2 Niños · Shampoo · Elementos básicos · Plancha · TV · Aire acondicionado · Wifi · Cocina$3,500.00 MXN/ noche $17,500.00 MXN en total location_onprice_checkPacifika6 Adultos, 2 Niños · Shampoo · Elementos básicos · Plancha · TV · Aire acondicionado · Wifi · Cocina$3,500.00 MXN/ noche $17,500.00 MXN en total ' or . = 'Marzo 2022dolumamijuvisa 27  28  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  21  22  23  24  25  26  27  28  29  30  31 Abril 2022dolumamijuvisa 27  28  29  30  31  1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  21  22  23  24  25  26  27  28  29  30 Limpiar selecciónlocation_onprice_checkPortico6 Adultos, 2 Niños · Shampoo · Elementos básicos · Plancha · TV · Aire acondicionado · Wifi · Cocina$3,500.00 MXN/ noche $17,500.00 MXN en total location_onprice_checkPacifika6 Adultos, 2 Niños · Shampoo · Elementos básicos · Plancha · TV · Aire acondicionado · Wifi · Cocina$3,500.00 MXN/ noche $17,500.00 MXN en total ')]</value>
+   </webElementXpaths>
+</WebElementEntity>

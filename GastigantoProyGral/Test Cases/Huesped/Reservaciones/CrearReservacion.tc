@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>En este Test Case se realiza la reservacion de una propiedad.</description>
+   <name>CrearReservacion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>929ae513-0ba1-422b-a2e4-d458caa0d835</testCaseGuid>
+</TestCaseEntity>

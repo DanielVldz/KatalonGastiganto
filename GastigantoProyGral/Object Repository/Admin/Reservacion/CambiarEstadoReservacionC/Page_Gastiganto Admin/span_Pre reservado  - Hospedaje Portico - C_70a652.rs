@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Pre reservado  - Hospedaje Portico - C_70a652</name>
+   <tag></tag>
+   <elementGuidId>7b716939-bd64-4c47-85db-81db31d2a0a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_content']/div/kt-usuarios/kt-portlet/div/kt-portlet-body/div[3]/mwl-calendar-month-view/div/div/div[5]/mwl-calendar-open-day-events/div/div/mwl-calendar-event-title/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.cal-event-title.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>56e93343-de61-4434-9785-e50d597936ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cal-event-title ng-star-inserted</value>
+      <webElementGuid>ab34fad5-01e2-44fd-b23c-3c9e5c1fe10b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>0e78e0eb-d4da-4fd3-908f-2e22ebcab317</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pre reservado  -> Hospedaje: Portico -> Cliente: Astolfo Rodriguez</value>
+      <webElementGuid>7f48241b-d21b-4629-b025-ffad2a51352b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_content&quot;)/div[@class=&quot;kt-container kt-grid__item kt-grid__item--fluid kt-container--fluid&quot;]/kt-usuarios[@class=&quot;ng-star-inserted&quot;]/kt-portlet[1]/div[@class=&quot;kt-portlet&quot;]/kt-portlet-body[@class=&quot;kt-portlet__body&quot;]/div[@class=&quot;pl-4 pr-4&quot;]/mwl-calendar-month-view[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;cal-month-view&quot;]/div[@class=&quot;cal-days&quot;]/div[@class=&quot;ng-star-inserted&quot;]/mwl-calendar-open-day-events[@class=&quot;ng-tns-c23-12&quot;]/div[@class=&quot;cal-open-day-events ng-tns-c23-12 ng-trigger ng-trigger-collapse ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c23-12 ng-star-inserted&quot;]/mwl-calendar-event-title[@class=&quot;ng-tns-c23-12&quot;]/span[@class=&quot;cal-event-title ng-star-inserted&quot;]</value>
+      <webElementGuid>a79a8276-2517-4044-bca3-6ff9027291ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_content']/div/kt-usuarios/kt-portlet/div/kt-portlet-body/div[3]/mwl-calendar-month-view/div/div/div[5]/mwl-calendar-open-day-events/div/div/mwl-calendar-event-title/span</value>
+      <webElementGuid>972b76c9-2ad4-4766-9211-85ebe3116f74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ 5'])[1]/following::span[34]</value>
+      <webElementGuid>e30260a4-2b3f-4b9f-a62f-bc402397a378</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ 4'])[2]/following::span[37]</value>
+      <webElementGuid>69c426e3-4638-412f-88c6-c0f36df83e5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buscar...'])[1]/preceding::span[8]</value>
+      <webElementGuid>840277d0-fac4-4915-bfb5-30906e4037c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buscar en todos los campos'])[1]/preceding::span[11]</value>
+      <webElementGuid>803dd6ac-9267-48c4-a5e6-14adc63e635a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mwl-calendar-event-title/span</value>
+      <webElementGuid>5f311083-8e72-4b12-bc79-583e6975ef21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Pre reservado  -> Hospedaje: Portico -> Cliente: Astolfo Rodriguez' or . = 'Pre reservado  -> Hospedaje: Portico -> Cliente: Astolfo Rodriguez')]</value>
+      <webElementGuid>d5864461-738f-4a6c-9714-f576000ecc3f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

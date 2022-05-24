@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>En este Test Case se realiza el registro de un usuario verificando los apartados del modulo.</description>
+   <name>CrearNuevoUsuario</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7a8cf18c-5194-49ef-a021-4a881555227f</testCaseGuid>
+</TestCaseEntity>

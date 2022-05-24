@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>app-request-modal_Confirmar reservacinEsts _125fb5</name>
+   <tag></tag>
+   <elementGuidId>74e47267-66b5-4183-8a4b-49f9e378185a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-dialog-container[@id='mat-dialog-0']/app-request-modal</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>app-request-modal.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>app-request-modal</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Confirmar reservación¿Estás seguro de hacer la reservación en Pacifika, Mazatlán?Términos y condiciones Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer eu tempus ipsum, in maximus ipsum. Phasellus vitae facilisis ante. Morbi auctor, ligula sed dapibus gravida, quam erat lacinia est, sed sagittis lorem mauris a nulla. Pellentesque accumsan eros sit amet risus venenatis congue. Fusce eu tincidunt ipsum. Quisque sed erat ac nisl tincidunt aliquam. Mauris orci magna, consectetur a nisi quis, interdum tempor felis. Aliquam ut turpis sagittis ipsum posuere auctor at ut justo. Donec non cursus purus, vitae scelerisque turpis. Maecenas convallis laoreet mauris eu commodo. In blandit tortor sit amet sapien egestas, nec vestibulum tellus sollicitudin. Nullam id ipsum nunc. Cras id malesuada nisl. In iaculis congue est, nec pretium mauris finibus sit amet. Quisque ut egestas magna. Ut sed lorem id quam commodo malesuada. Fusce vel sagittis quam. In id magna at elit lobortis posuere. Pellentesque dapibus nibh non sem tempus accumsan. Sed at lacus vitae nulla finibus tristique ut vel nibh. Donec at diam quis nisi pretium accumsan. Morbi turpis metus, interdum eu ex sed, luctus blandit ante. Praesent consectetur convallis ligula iaculis sagittis. Nullam vitae tincidunt ante, eget tincidunt nisi. Maecenas ac quam facilisis purus luctus pulvinar tristique nec dolor. Nulla in erat ut urna varius porttitor nec ac erat. Curabitur felis sem, feugiat eu luctus non, vulputate pellentesque ipsum. Pellentesque tristique ipsum sed erat mollis lobortis. Sed eget metus non leo molestie tempor vel sit amet nisi. Sed varius turpis ut purus vulputate, quis suscipit mi rhoncus. Fusce euismod blandit venenatis. Nam eu volutpat orci. Sed tincidunt libero nec nisl fringilla, eget malesuada mi sollicitudin. Cras mollis nunc in ipsum volutpat congue. Proin eleifend felis leo, quis scelerisque ex maximus eget. Proin vel ante vulputate, pulvinar nibh vel, cursus lorem. Fusce ac tortor diam. Nam molestie augue a magna viverra, quis rhoncus enim faucibus. Integer eget metus tortor. Integer hendrerit erat molestie lorem ultricies semper. Morbi ut semper risus. Morbi massa dolor, finibus consequat dui et, efficitur suscipit leo. Sed ante ex, tincidunt sit amet lacinia eu, viverra hendrerit arcu. Aliquam tincidunt non nulla vel rutrum. Cras luctus, leo non congue tristique, lorem orci fermentum nisi, ac congue neque elit sit amet ipsum. Pellentesque pretium augue quis feugiat scelerisque. Nulla mollis a nisi nec sodales. Maecenas tempor sit amet lacus quis elementum. Duis scelerisque faucibus nisl, sed interdum ante luctus a. Vestibulum interdum velit eu imperdiet placerat. Donec feugiat finibus auctor. Praesent in nibh vel diam interdum tristique. Aenean at magna posuere odio faucibus egestas. Sed rhoncus est at purus vulputate, ac elementum ligula luctus. Aenean malesuada a risus volutpat scelerisque. Cras libero felis, blandit quis massa ut, posuere dignissim eros. Praesent accumsan accumsan nisi ac interdum. Nunc et risus fermentum neque sodales dignissim at eget mauris. Aliquam ac neque egestas, scelerisque ex ut, mattis mauris. Morbi ipsum felis, consectetur suscipit massa at, luctus consectetur quam. Sed vehicula quis purus vitae consectetur. Aenean posuere ipsum ultricies felis egestas, in volutpat neque gravida. Nullam vitae nibh tortor.  Aceptar términos y condicionesCancelarAceptar</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-dialog-0&quot;)/app-request-modal[@class=&quot;ng-star-inserted&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-0']/app-request-modal</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Created with Sketch.'])[9]/following::app-request-modal[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informática Electoral'])[1]/following::app-request-modal[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-request-modal</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//app-request-modal[(text() = 'Confirmar reservación¿Estás seguro de hacer la reservación en Pacifika, Mazatlán?Términos y condiciones Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer eu tempus ipsum, in maximus ipsum. Phasellus vitae facilisis ante. Morbi auctor, ligula sed dapibus gravida, quam erat lacinia est, sed sagittis lorem mauris a nulla. Pellentesque accumsan eros sit amet risus venenatis congue. Fusce eu tincidunt ipsum. Quisque sed erat ac nisl tincidunt aliquam. Mauris orci magna, consectetur a nisi quis, interdum tempor felis. Aliquam ut turpis sagittis ipsum posuere auctor at ut justo. Donec non cursus purus, vitae scelerisque turpis. Maecenas convallis laoreet mauris eu commodo. In blandit tortor sit amet sapien egestas, nec vestibulum tellus sollicitudin. Nullam id ipsum nunc. Cras id malesuada nisl. In iaculis congue est, nec pretium mauris finibus sit amet. Quisque ut egestas magna. Ut sed lorem id quam commodo malesuada. Fusce vel sagittis quam. In id magna at elit lobortis posuere. Pellentesque dapibus nibh non sem tempus accumsan. Sed at lacus vitae nulla finibus tristique ut vel nibh. Donec at diam quis nisi pretium accumsan. Morbi turpis metus, interdum eu ex sed, luctus blandit ante. Praesent consectetur convallis ligula iaculis sagittis. Nullam vitae tincidunt ante, eget tincidunt nisi. Maecenas ac quam facilisis purus luctus pulvinar tristique nec dolor. Nulla in erat ut urna varius porttitor nec ac erat. Curabitur felis sem, feugiat eu luctus non, vulputate pellentesque ipsum. Pellentesque tristique ipsum sed erat mollis lobortis. Sed eget metus non leo molestie tempor vel sit amet nisi. Sed varius turpis ut purus vulputate, quis suscipit mi rhoncus. Fusce euismod blandit venenatis. Nam eu volutpat orci. Sed tincidunt libero nec nisl fringilla, eget malesuada mi sollicitudin. Cras mollis nunc in ipsum volutpat congue. Proin eleifend felis leo, quis scelerisque ex maximus eget. Proin vel ante vulputate, pulvinar nibh vel, cursus lorem. Fusce ac tortor diam. Nam molestie augue a magna viverra, quis rhoncus enim faucibus. Integer eget metus tortor. Integer hendrerit erat molestie lorem ultricies semper. Morbi ut semper risus. Morbi massa dolor, finibus consequat dui et, efficitur suscipit leo. Sed ante ex, tincidunt sit amet lacinia eu, viverra hendrerit arcu. Aliquam tincidunt non nulla vel rutrum. Cras luctus, leo non congue tristique, lorem orci fermentum nisi, ac congue neque elit sit amet ipsum. Pellentesque pretium augue quis feugiat scelerisque. Nulla mollis a nisi nec sodales. Maecenas tempor sit amet lacus quis elementum. Duis scelerisque faucibus nisl, sed interdum ante luctus a. Vestibulum interdum velit eu imperdiet placerat. Donec feugiat finibus auctor. Praesent in nibh vel diam interdum tristique. Aenean at magna posuere odio faucibus egestas. Sed rhoncus est at purus vulputate, ac elementum ligula luctus. Aenean malesuada a risus volutpat scelerisque. Cras libero felis, blandit quis massa ut, posuere dignissim eros. Praesent accumsan accumsan nisi ac interdum. Nunc et risus fermentum neque sodales dignissim at eget mauris. Aliquam ac neque egestas, scelerisque ex ut, mattis mauris. Morbi ipsum felis, consectetur suscipit massa at, luctus consectetur quam. Sed vehicula quis purus vitae consectetur. Aenean posuere ipsum ultricies felis egestas, in volutpat neque gravida. Nullam vitae nibh tortor.  Aceptar términos y condicionesCancelarAceptar' or . = 'Confirmar reservación¿Estás seguro de hacer la reservación en Pacifika, Mazatlán?Términos y condiciones Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer eu tempus ipsum, in maximus ipsum. Phasellus vitae facilisis ante. Morbi auctor, ligula sed dapibus gravida, quam erat lacinia est, sed sagittis lorem mauris a nulla. Pellentesque accumsan eros sit amet risus venenatis congue. Fusce eu tincidunt ipsum. Quisque sed erat ac nisl tincidunt aliquam. Mauris orci magna, consectetur a nisi quis, interdum tempor felis. Aliquam ut turpis sagittis ipsum posuere auctor at ut justo. Donec non cursus purus, vitae scelerisque turpis. Maecenas convallis laoreet mauris eu commodo. In blandit tortor sit amet sapien egestas, nec vestibulum tellus sollicitudin. Nullam id ipsum nunc. Cras id malesuada nisl. In iaculis congue est, nec pretium mauris finibus sit amet. Quisque ut egestas magna. Ut sed lorem id quam commodo malesuada. Fusce vel sagittis quam. In id magna at elit lobortis posuere. Pellentesque dapibus nibh non sem tempus accumsan. Sed at lacus vitae nulla finibus tristique ut vel nibh. Donec at diam quis nisi pretium accumsan. Morbi turpis metus, interdum eu ex sed, luctus blandit ante. Praesent consectetur convallis ligula iaculis sagittis. Nullam vitae tincidunt ante, eget tincidunt nisi. Maecenas ac quam facilisis purus luctus pulvinar tristique nec dolor. Nulla in erat ut urna varius porttitor nec ac erat. Curabitur felis sem, feugiat eu luctus non, vulputate pellentesque ipsum. Pellentesque tristique ipsum sed erat mollis lobortis. Sed eget metus non leo molestie tempor vel sit amet nisi. Sed varius turpis ut purus vulputate, quis suscipit mi rhoncus. Fusce euismod blandit venenatis. Nam eu volutpat orci. Sed tincidunt libero nec nisl fringilla, eget malesuada mi sollicitudin. Cras mollis nunc in ipsum volutpat congue. Proin eleifend felis leo, quis scelerisque ex maximus eget. Proin vel ante vulputate, pulvinar nibh vel, cursus lorem. Fusce ac tortor diam. Nam molestie augue a magna viverra, quis rhoncus enim faucibus. Integer eget metus tortor. Integer hendrerit erat molestie lorem ultricies semper. Morbi ut semper risus. Morbi massa dolor, finibus consequat dui et, efficitur suscipit leo. Sed ante ex, tincidunt sit amet lacinia eu, viverra hendrerit arcu. Aliquam tincidunt non nulla vel rutrum. Cras luctus, leo non congue tristique, lorem orci fermentum nisi, ac congue neque elit sit amet ipsum. Pellentesque pretium augue quis feugiat scelerisque. Nulla mollis a nisi nec sodales. Maecenas tempor sit amet lacus quis elementum. Duis scelerisque faucibus nisl, sed interdum ante luctus a. Vestibulum interdum velit eu imperdiet placerat. Donec feugiat finibus auctor. Praesent in nibh vel diam interdum tristique. Aenean at magna posuere odio faucibus egestas. Sed rhoncus est at purus vulputate, ac elementum ligula luctus. Aenean malesuada a risus volutpat scelerisque. Cras libero felis, blandit quis massa ut, posuere dignissim eros. Praesent accumsan accumsan nisi ac interdum. Nunc et risus fermentum neque sodales dignissim at eget mauris. Aliquam ac neque egestas, scelerisque ex ut, mattis mauris. Morbi ipsum felis, consectetur suscipit massa at, luctus consectetur quam. Sed vehicula quis purus vitae consectetur. Aenean posuere ipsum ultricies felis egestas, in volutpat neque gravida. Nullam vitae nibh tortor.  Aceptar términos y condicionesCancelarAceptar')]</value>
+   </webElementXpaths>
+</WebElementEntity>

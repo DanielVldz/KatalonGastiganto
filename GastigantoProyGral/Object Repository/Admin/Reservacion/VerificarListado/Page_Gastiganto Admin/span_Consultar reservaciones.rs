@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Consultar reservaciones</name>
+   <tag></tag>
+   <elementGuidId>1c62e006-f543-4a34-8323-5aa9009b9530</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.kt-hidden-mobile</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_content']/div/kt-usuarios/kt-portlet/div/kt-portlet-body/div[2]/section/form/div/div[3]/button/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e40a5c76-079b-45b3-8116-b3eadb8a231d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>kt-hidden-mobile</value>
+      <webElementGuid>c552ff58-e975-49da-a320-56554f6b9721</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Consultar reservaciones</value>
+      <webElementGuid>7c87f77a-e730-49ec-9d38-846d6ac54330</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_content&quot;)/div[@class=&quot;kt-container kt-grid__item kt-grid__item--fluid kt-container--fluid&quot;]/kt-usuarios[@class=&quot;ng-star-inserted&quot;]/kt-portlet[1]/div[@class=&quot;kt-portlet&quot;]/kt-portlet-body[@class=&quot;kt-portlet__body&quot;]/div[@class=&quot;text-center pl-4 pr-4&quot;]/section[1]/form[@class=&quot;kt-form ng-touched ng-dirty ng-valid&quot;]/div[@class=&quot;c-consulta&quot;]/div[@class=&quot;mb-3&quot;]/button[@class=&quot;btn btn-global mat-raised-button mat-button-base cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]/span[@class=&quot;kt-hidden-mobile&quot;]</value>
+      <webElementGuid>c840a762-af89-4d81-906e-877002d79f7c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_content']/div/kt-usuarios/kt-portlet/div/kt-portlet-body/div[2]/section/form/div/div[3]/button/span/span</value>
+      <webElementGuid>7713ee65-a08e-443f-8e99-70ad00fa78c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selecciona el mes'])[1]/following::span[4]</value>
+      <webElementGuid>133cc69e-c46d-4d57-b611-63bbb84678c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selecciona una plaza'])[1]/following::span[6]</value>
+      <webElementGuid>63d2478b-529a-4921-874a-749da0eb5fa2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prereservado'])[1]/preceding::span[1]</value>
+      <webElementGuid>60d689f9-b1fe-453e-8671-c1acd7648cb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reservado'])[1]/preceding::span[1]</value>
+      <webElementGuid>814ded84-f86b-4121-9b7a-e61e7c557a18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Consultar reservaciones']/parent::*</value>
+      <webElementGuid>55aa3089-77cc-4cb0-80cd-73dd61a58544</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span/span</value>
+      <webElementGuid>5eb1b926-f06d-4f19-9ad5-8e43839411ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Consultar reservaciones' or . = 'Consultar reservaciones')]</value>
+      <webElementGuid>420d64c4-b52e-483e-a216-51f2715e49cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

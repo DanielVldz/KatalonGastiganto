@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Reservaciones</name>
+   <tag></tag>
+   <elementGuidId>43a7508f-9918-4c73-9e0f-a5c9cb0daa2f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_header_menu']/ul/li/a/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.kt-menu__link-text.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7729c2ab-e2a2-4982-b8d9-c4730d85d086</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>kt-menu__link-text ng-star-inserted</value>
+      <webElementGuid>8bc5ed26-359b-4a72-9c8e-7805d3177571</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Reservaciones </value>
+      <webElementGuid>e1bb598d-674b-4207-8c76-0d774f2e2d34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_header_menu&quot;)/ul[@class=&quot;kt-menu__nav&quot;]/li[@class=&quot;kt-menu__item kt-menu__item--active kt-menu__item--here kt-menu__item--rel ng-star-inserted kt-menu__item--hover&quot;]/a[@class=&quot;kt-menu__link kt-menu__toggle ng-star-inserted&quot;]/span[@class=&quot;kt-menu__link-text ng-star-inserted&quot;]</value>
+      <webElementGuid>f0c27143-f15a-4d97-a759-408e58b60cd5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_header_menu']/ul/li/a/span[2]</value>
+      <webElementGuid>4b114802-b441-4bea-8ac1-89768a8bb192</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Catálogos'])[1]/preceding::span[2]</value>
+      <webElementGuid>9b5083ff-4d18-4266-84b9-3246523b5e58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Usuarios'])[1]/preceding::span[6]</value>
+      <webElementGuid>4d12fc64-683d-4085-bdd2-a8832d1ee2c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Reservaciones']/parent::*</value>
+      <webElementGuid>b478efaa-79fd-46ac-9181-06451bd1e0be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>a7dc1d71-3b6d-4d95-953c-c4e47b723ae0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Reservaciones ' or . = ' Reservaciones ')]</value>
+      <webElementGuid>7412bd38-d64b-403c-bd51-de396417b1b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Reservar</name>
+   <tag></tag>
+   <elementGuidId>4fd8f9f0-fbc2-419d-a1e9-e48a9b1d37b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_content']/div/kt-modal-add-reservacion/kt-portlet/div/kt-portlet-header/div[2]/button[3]/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary.kt-margin-r-10.mat-raised-button.mat-button-base.cdk-focused.cdk-mouse-focused > span.mat-button-wrapper > span.kt-hidden-mobile</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7f9f16d7-e99f-4ca5-95a5-c534f12b4924</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>kt-hidden-mobile</value>
+      <webElementGuid>de53e99a-f202-4c22-9727-6b2e07456842</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reservar</value>
+      <webElementGuid>ade1e638-6e50-4161-926e-5711012c2b20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_content&quot;)/div[@class=&quot;kt-container kt-grid__item kt-grid__item--fluid kt-container--fluid&quot;]/kt-modal-add-reservacion[@class=&quot;ng-star-inserted&quot;]/kt-portlet[1]/div[@class=&quot;kt-portlet&quot;]/kt-portlet-header[@class=&quot;kt-portlet__head kt-portlet__head--lg&quot;]/div[@class=&quot;kt-portlet__head-toolbar&quot;]/button[@class=&quot;btn btn-primary kt-margin-r-10 mat-raised-button mat-button-base cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]/span[@class=&quot;kt-hidden-mobile&quot;]</value>
+      <webElementGuid>4a6fda54-8df8-4f10-a8c9-2d559d36d917</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_content']/div/kt-modal-add-reservacion/kt-portlet/div/kt-portlet-header/div[2]/button[3]/span/span</value>
+      <webElementGuid>dbddfe8f-0ceb-4f1b-b555-9c5373be8c6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Limpiar campos'])[1]/following::span[2]</value>
+      <webElementGuid>a5a542ea-fea2-4762-b3a5-469640d2f113</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Regresar'])[1]/following::span[4]</value>
+      <webElementGuid>428b5dfb-798a-4875-8ff2-b15514fce85e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Información básica'])[1]/preceding::span[1]</value>
+      <webElementGuid>8455fdc7-d5f7-46e7-a018-312ba0133bb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mazatlán'])[1]/preceding::span[1]</value>
+      <webElementGuid>b5ffd687-3101-4544-a94a-c8d137fa88f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Reservar']/parent::*</value>
+      <webElementGuid>4d23616b-9ab7-4685-a47c-c8d32d309c8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]/span/span</value>
+      <webElementGuid>a2c21df7-5a22-4d05-ad9e-885ff831e7c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Reservar' or . = 'Reservar')]</value>
+      <webElementGuid>294bc7dc-071d-4f7b-b85a-909ea9e3b018</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

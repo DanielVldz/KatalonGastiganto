@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_26</name>
+   <tag></tag>
+   <elementGuidId>28e6bf67-f9f1-456d-b7e3-a74db134c18b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_content']/div/kt-usuarios/kt-portlet/div/kt-portlet-body/div[3]/mwl-calendar-month-view/div/div/div[5]/div/mwl-calendar-month-cell[3]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>mwl-calendar-month-cell.cal-cell.cal-day-cell.cal-today.cal-in-month.ng-star-inserted.cal-has-events > div.cal-cell-top.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fce9989e-abde-4de7-9246-4818f7ac1da0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cal-cell-top ng-star-inserted</value>
+      <webElementGuid>3fe7b2ca-3e34-4bab-8f16-fbf7fb9565bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>26</value>
+      <webElementGuid>979fc2ab-df67-4a83-9350-a50cac16f6f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_content&quot;)/div[@class=&quot;kt-container kt-grid__item kt-grid__item--fluid kt-container--fluid&quot;]/kt-usuarios[@class=&quot;ng-star-inserted&quot;]/kt-portlet[1]/div[@class=&quot;kt-portlet&quot;]/kt-portlet-body[@class=&quot;kt-portlet__body&quot;]/div[@class=&quot;pl-4 pr-4&quot;]/mwl-calendar-month-view[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;cal-month-view&quot;]/div[@class=&quot;cal-days&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;cal-cell-row&quot;]/mwl-calendar-month-cell[@class=&quot;cal-cell cal-day-cell cal-today cal-in-month ng-star-inserted cal-has-events&quot;]/div[@class=&quot;cal-cell-top ng-star-inserted&quot;]</value>
+      <webElementGuid>5d894a9a-85c1-4d80-95d1-95331bc1880f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_content']/div/kt-usuarios/kt-portlet/div/kt-portlet-body/div[3]/mwl-calendar-month-view/div/div/div[5]/div/mwl-calendar-month-cell[3]/div</value>
+      <webElementGuid>d3a40ea0-ccf0-458b-a0bb-acffb58e9457</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ 5'])[1]/following::div[39]</value>
+      <webElementGuid>1f8abce7-2364-4f46-b91b-6938c8f88930</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ 4'])[2]/following::div[44]</value>
+      <webElementGuid>81a17fae-d97d-43c9-a888-24e4785a9605</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buscar...'])[1]/preceding::div[20]</value>
+      <webElementGuid>160999ca-6d68-4b8d-a481-e28c15233e76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buscar en todos los campos'])[1]/preceding::div[23]</value>
+      <webElementGuid>e2c54486-1b33-47cd-b75a-7dac2962dedd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/mwl-calendar-month-cell[3]/div</value>
+      <webElementGuid>6d33d683-fc4a-4229-9609-14c9ae34d943</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '26' or . = '26')]</value>
+      <webElementGuid>d31175ad-02e9-4527-9356-d035dd2e0325</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Correo electrnico</name>
+   <tag></tag>
+   <elementGuidId>c286c084-6ee1-4433-b006-c19a23de6dd4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_login']/div/div[2]/kt-login/div/div/form/div/mat-form-field/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-form-field-infix</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>42ded7ae-afd9-470e-90f9-4f6cb20e2953</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-form-field-infix</value>
+      <webElementGuid>04896be3-f79d-4d5e-9407-52ae462c415e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Correo electrónico</value>
+      <webElementGuid>07ee813f-5aec-44ce-97af-ae03de339adc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_login&quot;)/div[@class=&quot;kt-grid__item kt-grid__item--fluid kt-grid kt-grid--desktop kt-grid--ver-desktop kt-grid--hor-tablet-and-mobile&quot;]/div[@class=&quot;kt-grid__item kt-grid__item--fluid  kt-grid__item--order-tablet-and-mobile-1 kt-login__wrapper&quot;]/kt-login[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;kt-login__body&quot;]/div[@class=&quot;kt-login__form&quot;]/form[@class=&quot;kt-form ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;form-group&quot;]/mat-form-field[@class=&quot;mat-form-field ng-tns-c4-1 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-legacy mat-form-field-can-float mat-form-field-has-label mat-form-field-hide-placeholder ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;mat-form-field-wrapper&quot;]/div[@class=&quot;mat-form-field-flex&quot;]/div[@class=&quot;mat-form-field-infix&quot;]</value>
+      <webElementGuid>5482517b-a33f-45c2-8e8a-eb4a58b9c9fb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_login']/div/div[2]/kt-login/div/div/form/div/mat-form-field/div/div/div</value>
+      <webElementGuid>f78ef8df-3735-41b6-9336-e09c25a18da6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ie Soluciones'])[1]/following::div[8]</value>
+      <webElementGuid>907f3814-64ca-4c79-9188-286d2613cd0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contraseña'])[1]/preceding::div[5]</value>
+      <webElementGuid>24e6440c-af1d-43a2-b7b8-5004f3f4008a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-form-field/div/div/div</value>
+      <webElementGuid>0263ca4d-257d-4c59-a8db-0b656474e0d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Correo electrónico' or . = 'Correo electrónico')]</value>
+      <webElementGuid>2ab6f3da-6f6e-4f2e-8351-34d195acd76f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

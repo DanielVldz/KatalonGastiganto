@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Cancelado  - Hospedaje Santorini 4-7 -_e3ebf0</name>
+   <tag></tag>
+   <elementGuidId>a61092cb-783f-46b6-8fcc-a7161b242983</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_content']/div/kt-usuarios/kt-portlet/div/kt-portlet-body/div[3]/mwl-calendar-month-view/div/div/div[2]/mwl-calendar-open-day-events/div/div[6]/mwl-calendar-event-title/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>52492366-232f-4c19-9187-bcf02fa5c381</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cal-event-title ng-star-inserted</value>
+      <webElementGuid>2accecae-2a05-43ac-846a-95eb928a0db6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>f2804543-fb6a-4848-ae03-44dd1b3812cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cancelado  -> Hospedaje: Santorini 4-7 -> Cliente: UsuarioR ParaR</value>
+      <webElementGuid>6f358bd6-19b7-49c9-8940-dd39d6dea2ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_content&quot;)/div[@class=&quot;kt-container kt-grid__item kt-grid__item--fluid kt-container--fluid&quot;]/kt-usuarios[@class=&quot;ng-star-inserted&quot;]/kt-portlet[1]/div[@class=&quot;kt-portlet&quot;]/kt-portlet-body[@class=&quot;kt-portlet__body&quot;]/div[@class=&quot;pl-4 pr-4&quot;]/mwl-calendar-month-view[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;cal-month-view&quot;]/div[@class=&quot;cal-days&quot;]/div[@class=&quot;ng-star-inserted&quot;]/mwl-calendar-open-day-events[@class=&quot;ng-tns-c21-36&quot;]/div[@class=&quot;cal-open-day-events ng-tns-c21-36 ng-trigger ng-trigger-collapse ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c21-36 ng-star-inserted&quot;]/mwl-calendar-event-title[@class=&quot;ng-tns-c21-36&quot;]/span[@class=&quot;cal-event-title ng-star-inserted&quot;]</value>
+      <webElementGuid>d9eb327c-06cf-44ce-8d2a-ab5cc38d284b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_content']/div/kt-usuarios/kt-portlet/div/kt-portlet-body/div[3]/mwl-calendar-month-view/div/div/div[2]/mwl-calendar-open-day-events/div/div[6]/mwl-calendar-event-title/span</value>
+      <webElementGuid>56c93bea-fc43-467f-8171-86231f772a99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ 9'])[7]/following::span[23]</value>
+      <webElementGuid>e3599fb7-1feb-488c-bc80-26f6a5f94f1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ 9'])[6]/following::span[26]</value>
+      <webElementGuid>f492a69d-04b4-48e9-8c13-2e4d2e8ab115</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buscar...'])[1]/preceding::span[41]</value>
+      <webElementGuid>2351d714-63df-4ca4-9d78-44e463334258</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buscar en todos los campos'])[1]/preceding::span[44]</value>
+      <webElementGuid>cfb18563-b9ae-4b20-b324-dc429167e81c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/mwl-calendar-event-title/span</value>
+      <webElementGuid>061b3c28-b1cb-410f-a0d1-a2afc2d9492f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Cancelado  -> Hospedaje: Santorini 4-7 -> Cliente: UsuarioR ParaR' or . = 'Cancelado  -> Hospedaje: Santorini 4-7 -> Cliente: UsuarioR ParaR')]</value>
+      <webElementGuid>dd9b44f1-eaa2-4581-a6af-3916032251b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

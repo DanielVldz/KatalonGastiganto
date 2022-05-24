@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Todas las plazasSelecciona una plazaSel_ef6a36</name>
+   <tag></tag>
+   <elementGuidId>79de9f72-55d9-4eee-b4e1-7e474aa78a75</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.text-center.pl-4.pr-4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_content']/div/kt-usuarios/kt-portlet/div/kt-portlet-body/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3f2b20dd-6fce-4b0c-9394-d324aea8a4f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-center pl-4 pr-4</value>
+      <webElementGuid>87e7ab04-13dd-4050-9bbc-11393ba4da9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Todas las plazasSelecciona una plazaSelecciona el mesConsultar reservaciones Prereservado  Reservado  Cancelado </value>
+      <webElementGuid>a0a179ee-ac38-4f9c-8ad7-da04dc8348b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_content&quot;)/div[@class=&quot;kt-container kt-grid__item kt-grid__item--fluid kt-container--fluid&quot;]/kt-usuarios[@class=&quot;ng-star-inserted&quot;]/kt-portlet[1]/div[@class=&quot;kt-portlet&quot;]/kt-portlet-body[@class=&quot;kt-portlet__body&quot;]/div[@class=&quot;text-center pl-4 pr-4&quot;]</value>
+      <webElementGuid>98b3d898-3fc0-4273-b878-9341e758252f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_content']/div/kt-usuarios/kt-portlet/div/kt-portlet-body/div[2]</value>
+      <webElementGuid>145820f0-86a4-48b6-a726-e38223edcc31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nueva reservación'])[1]/following::div[4]</value>
+      <webElementGuid>6b6eae12-2667-45fc-a25e-d7affc2c43a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='abril 2022'])[1]/following::div[5]</value>
+      <webElementGuid>293c1c42-9392-4b51-a94f-ef4811493761</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//kt-portlet-body/div[2]</value>
+      <webElementGuid>6ef1c946-54c9-48f9-bc71-5c12c858df25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Todas las plazasSelecciona una plazaSelecciona el mesConsultar reservaciones Prereservado  Reservado  Cancelado ' or . = 'Todas las plazasSelecciona una plazaSelecciona el mesConsultar reservaciones Prereservado  Reservado  Cancelado ')]</value>
+      <webElementGuid>be86c45d-8605-41bc-aa97-5712c1e37580</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

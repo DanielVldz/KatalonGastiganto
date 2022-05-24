@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Tarifas</name>
+   <tag></tag>
+   <elementGuidId>40ce8fbc-e120-4eb8-b05b-b48350f105f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_header_menu']/ul/li[2]/div/ul/li[4]/a/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.kt-menu__subnav.ng-star-inserted > li.kt-menu__item.ng-star-inserted.kt-menu__item--hover > a.kt-menu__link.kt-menu__toggle.ng-star-inserted > span.kt-menu__link-text.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5a3508fb-28df-4d45-9ddb-a8220df2ff4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>kt-menu__link-text ng-star-inserted</value>
+      <webElementGuid>bb58329b-766c-4e0e-a314-a939d55f883a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Tarifas </value>
+      <webElementGuid>b66c8367-0ab4-43db-9272-866008f77b08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_header_menu&quot;)/ul[@class=&quot;kt-menu__nav&quot;]/li[@class=&quot;kt-menu__item kt-menu__item--submenu kt-menu__item--rel ng-star-inserted kt-menu__item--hover&quot;]/div[@class=&quot;kt-menu__submenu kt-menu__submenu--right kt-menu__submenu--classic ng-star-inserted&quot;]/ul[@class=&quot;kt-menu__subnav ng-star-inserted&quot;]/li[@class=&quot;kt-menu__item ng-star-inserted kt-menu__item--hover&quot;]/a[@class=&quot;kt-menu__link kt-menu__toggle ng-star-inserted&quot;]/span[@class=&quot;kt-menu__link-text ng-star-inserted&quot;]</value>
+      <webElementGuid>5eec8a5c-1678-4fa4-a2bb-3860ca07b5de</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_header_menu']/ul/li[2]/div/ul/li[4]/a/span[2]</value>
+      <webElementGuid>465f75ff-6a6f-4bf4-930f-b14e23317929</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Propiedades'])[1]/following::span[3]</value>
+      <webElementGuid>2f40fce8-77dc-4e6f-ba27-e625957eda83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Plazas'])[1]/following::span[6]</value>
+      <webElementGuid>3dff079e-d9b6-4c6e-9dfe-cb089fddfb06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A'])[1]/preceding::span[1]</value>
+      <webElementGuid>966f9cdd-c163-4b96-be26-c9947f4c8007</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A'])[2]/preceding::span[2]</value>
+      <webElementGuid>dd06dc2b-ed05-4387-be40-92ceab1b842d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tarifas']/parent::*</value>
+      <webElementGuid>f38523c5-4bd4-4eb1-a2c9-f86f58b7d6f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a/span[2]</value>
+      <webElementGuid>93f7ad45-bd7c-48ab-b78b-7d681b630943</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Tarifas ' or . = ' Tarifas ')]</value>
+      <webElementGuid>91fc51d2-87cf-42db-9ad7-54eb568c2573</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

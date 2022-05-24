@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Editar reservacin_la la-arrow-left</name>
+   <tag></tag>
+   <elementGuidId>ce8dbac4-8263-44bf-8495-6197eba76c0b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.la.la-arrow-left</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_content']/div/kt-modal-add-reservacion/kt-portlet/div/kt-portlet-header/div[2]/button/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>5a8b7781-695e-4e06-9e3b-f892dde607a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>la la-arrow-left</value>
+      <webElementGuid>67638a9b-3e00-4dcb-9372-fdeb0ab27391</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_content&quot;)/div[@class=&quot;kt-container kt-grid__item kt-grid__item--fluid kt-container--fluid&quot;]/kt-modal-add-reservacion[@class=&quot;ng-star-inserted&quot;]/kt-portlet[1]/div[@class=&quot;kt-portlet&quot;]/kt-portlet-header[@class=&quot;kt-portlet__head kt-portlet__head--lg&quot;]/div[@class=&quot;kt-portlet__head-toolbar&quot;]/button[@class=&quot;btn btn-primary kt-margin-r-10 mat-raised-button mat-button-base cdk-focused cdk-mouse-focused&quot;]/span[@class=&quot;mat-button-wrapper&quot;]/i[@class=&quot;la la-arrow-left&quot;]</value>
+      <webElementGuid>8ab8a5f0-da24-4205-97a9-8801f9bfa3aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_content']/div/kt-modal-add-reservacion/kt-portlet/div/kt-portlet-header/div[2]/button/span/i</value>
+      <webElementGuid>0084e23e-1288-4cf5-82de-b73f3efd53ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/i</value>
+      <webElementGuid>82a1cf16-8a6c-4671-9ef0-79aa7d26a513</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

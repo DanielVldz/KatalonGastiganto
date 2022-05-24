@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>En este Test Case se edita una propiedad existente verificando que se modificaron los archivos y elementos basicos.</description>
+   <name>EditarPropiedad</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>788f7fdc-4349-42ab-b237-d3d2a9eb32f3</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Reservaciones</name>
+   <tag></tag>
+   <elementGuidId>e4ba88e5-740b-4cdb-bda3-eb37ed584dd3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_header_menu']/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.kt-menu__link.kt-menu__toggle.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d83d1196-13a7-42f9-8ce2-f52ce64f56eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>kt-menu__link kt-menu__toggle ng-star-inserted</value>
+      <webElementGuid>691073b8-06aa-4e1b-ae07-6b0b1a9e4b06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/gastiganto/admin/reservaciones</value>
+      <webElementGuid>758bdcf4-b7d4-45ea-b67f-ba64bdb32f1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Reservaciones </value>
+      <webElementGuid>74c110cf-b052-483b-a903-556e9c4fc0c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_header_menu&quot;)/ul[@class=&quot;kt-menu__nav&quot;]/li[@class=&quot;kt-menu__item kt-menu__item--active kt-menu__item--here kt-menu__item--rel ng-star-inserted kt-menu__item--hover&quot;]/a[@class=&quot;kt-menu__link kt-menu__toggle ng-star-inserted&quot;]</value>
+      <webElementGuid>648fc49e-f044-41a9-932d-a83848acf1a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_header_menu']/ul/li/a</value>
+      <webElementGuid>98c26b41-2816-44c8-a398-e1bd6f100340</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Catálogos'])[1]/preceding::a[1]</value>
+      <webElementGuid>8a1636a8-af33-415f-98b6-a34479589b21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/gastiganto/admin/reservaciones')]</value>
+      <webElementGuid>7f8b5d56-b3da-4800-b948-ad23b8240ffb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a</value>
+      <webElementGuid>2de18a13-da0b-4549-8004-c95e75bbb716</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/gastiganto/admin/reservaciones' and (text() = ' Reservaciones ' or . = ' Reservaciones ')]</value>
+      <webElementGuid>ca276728-5cf4-458c-b889-ad474e0e9cf0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

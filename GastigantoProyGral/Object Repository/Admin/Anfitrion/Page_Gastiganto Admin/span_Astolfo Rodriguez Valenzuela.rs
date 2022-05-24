@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Astolfo Rodriguez Valenzuela</name>
+   <tag></tag>
+   <elementGuidId>194caeef-18e4-416f-82bc-e2a9b76e2a8a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-option[@id='mat-option-23']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-option-23 > span.mat-option-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>00edac3e-4c69-420b-94c4-611f9feb1054</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-option-text</value>
+      <webElementGuid>bb39072e-8752-4b3d-8477-5af0d86c8710</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Astolfo Rodriguez Valenzuela</value>
+      <webElementGuid>f4e6b446-4511-450f-b59d-2e930baf2198</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-23&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
+      <webElementGuid>a5e18d28-d3a1-4958-8de3-99b49822a086</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-23']/span</value>
+      <webElementGuid>cbfc2d46-1696-46bc-b843-4498dee6c1c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daniel Valdez Padilla'])[1]/following::span[1]</value>
+      <webElementGuid>07338a4f-4f83-4bb0-bbe6-fd9515077bfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='andres sanchez lopez'])[1]/following::span[2]</value>
+      <webElementGuid>ac33b296-6c58-46b9-966e-1f6fa4e11948</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ricardo Quintero Meza'])[1]/preceding::span[1]</value>
+      <webElementGuid>84551712-5dfa-4dda-a72d-eb1c2f498257</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jose Reyes Lopez'])[1]/preceding::span[2]</value>
+      <webElementGuid>7446213e-7eb3-46d5-87fe-bcf375c6b7db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Astolfo Rodriguez Valenzuela']/parent::*</value>
+      <webElementGuid>8fa319be-43da-48f6-b482-fddb1bf0f386</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option[5]/span</value>
+      <webElementGuid>cb3b0756-9837-4e1a-bc3e-bfb661855f8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Astolfo Rodriguez Valenzuela' or . = 'Astolfo Rodriguez Valenzuela')]</value>
+      <webElementGuid>fea5b439-8b96-4592-adee-b2f6b7dcc238</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

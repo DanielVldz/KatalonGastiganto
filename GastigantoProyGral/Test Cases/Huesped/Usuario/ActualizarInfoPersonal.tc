@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>En este Test Case se actualiza la información personal de un usuario verificando el modulo los campos de informacion basica.</description>
+   <name>ActualizarInfoPersonal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f07f7370-abe1-4ce2-a760-a1d70e92ddba</testCaseGuid>
+</TestCaseEntity>

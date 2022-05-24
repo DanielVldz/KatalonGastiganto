@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_sb_cal-event ng-star-inserted</name>
+   <tag></tag>
+   <elementGuidId>3af48d77-430b-4070-a1a5-a793d99d03a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_content']/div/kt-usuarios/kt-portlet/div/kt-portlet-body/div[3]/mwl-calendar-month-view/div/div/div[2]/div/mwl-calendar-month-cell[4]/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>88a503ea-46f2-4a3b-a36c-9f28d33ab312</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cal-event ng-star-inserted</value>
+      <webElementGuid>4a3a602f-6e04-4f83-ba07-82fe5043a93f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dragactiveclass</name>
+      <type>Main</type>
+      <value>cal-drag-active</value>
+      <webElementGuid>27193109-8aaf-4891-b29d-32dd8c729356</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_content&quot;)/div[@class=&quot;kt-container kt-grid__item kt-grid__item--fluid kt-container--fluid&quot;]/kt-usuarios[@class=&quot;ng-star-inserted&quot;]/kt-portlet[1]/div[@class=&quot;kt-portlet&quot;]/kt-portlet-body[@class=&quot;kt-portlet__body&quot;]/div[@class=&quot;pl-4 pr-4&quot;]/mwl-calendar-month-view[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;cal-month-view&quot;]/div[@class=&quot;cal-days&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;cal-cell-row&quot;]/mwl-calendar-month-cell[@class=&quot;cal-cell cal-day-cell cal-past cal-in-month ng-star-inserted cal-has-events cal-event-highlight&quot;]/div[@class=&quot;cal-events ng-star-inserted&quot;]/div[@class=&quot;cal-event ng-star-inserted&quot;]</value>
+      <webElementGuid>ca13be3f-876e-4618-9a8a-6179ec25ab13</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_content']/div/kt-usuarios/kt-portlet/div/kt-portlet-body/div[3]/mwl-calendar-month-view/div/div/div[2]/div/mwl-calendar-month-cell[4]/div[2]/div[2]</value>
+      <webElementGuid>c3fcd6e2-b90e-4c07-b4cd-94114680665e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mwl-calendar-month-cell[4]/div[2]/div[2]</value>
+      <webElementGuid>4678b8c4-5298-4aa0-835a-026f9dbf2f53</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

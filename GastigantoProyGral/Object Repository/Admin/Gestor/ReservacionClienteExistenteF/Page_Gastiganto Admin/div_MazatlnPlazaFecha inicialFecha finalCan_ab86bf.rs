@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_MazatlnPlazaFecha inicialFecha finalCan_ab86bf</name>
+   <tag></tag>
+   <elementGuidId>690beb85-6833-489d-938d-f1e70a04bbfe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-tab-body[@id='mat-tab-content-0-0']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.p-3.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2cab6136-c78c-46dc-a3c3-4422b1159205</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-3 ng-star-inserted</value>
+      <webElementGuid>52f03452-8909-4502-99bc-72fbd9b6807e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MazatlánPlazaFecha inicialFecha final¿Cúantos huéspedes?Adultos13 años o másremove4addNiños12 años o menosremove0add4 Adultos 0 Niños Consultar disponibilidadHospedajeHospedajeEstatusEstatusClienteCliente  Nuevo cliente </value>
+      <webElementGuid>8e44a32f-4c90-4016-98a0-2c6b70970fb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-tab-content-0-0&quot;)/div[@class=&quot;mat-tab-body-content ng-trigger ng-trigger-translateTab&quot;]/div[@class=&quot;p-3 ng-star-inserted&quot;]</value>
+      <webElementGuid>9862261f-c5a4-4273-b0de-52027feb2528</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-tab-body[@id='mat-tab-content-0-0']/div/div</value>
+      <webElementGuid>b257f3f3-a0ae-4adb-8632-bb91eb3fecea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Información básica'])[1]/following::div[5]</value>
+      <webElementGuid>33ae74d5-97da-4c01-81b0-e957ba52e09a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reservar'])[1]/following::div[14]</value>
+      <webElementGuid>055ab8fb-09c9-4ab5-b474-c9476a48e53e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-tab-body/div/div</value>
+      <webElementGuid>bf9847d7-0c10-447e-bff8-5036eb4c24a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'MazatlánPlazaFecha inicialFecha final¿Cúantos huéspedes?Adultos13 años o másremove4addNiños12 años o menosremove0add4 Adultos 0 Niños Consultar disponibilidadHospedajeHospedajeEstatusEstatusClienteCliente  Nuevo cliente ' or . = 'MazatlánPlazaFecha inicialFecha final¿Cúantos huéspedes?Adultos13 años o másremove4addNiños12 años o menosremove0add4 Adultos 0 Niños Consultar disponibilidadHospedajeHospedajeEstatusEstatusClienteCliente  Nuevo cliente ')]</value>
+      <webElementGuid>77e488a7-6bca-4109-814d-1dc08277a6da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

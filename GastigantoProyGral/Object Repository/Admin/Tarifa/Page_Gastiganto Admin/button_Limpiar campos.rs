@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Limpiar campos</name>
+   <tag></tag>
+   <elementGuidId>b70acca6-ccad-45a2-802f-24bb1ea574ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_content']/div/kt-tarifas-edit/kt-portlet/div/kt-portlet-header/div[2]/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary.kt-margin-r-10.mat-raised-button.mat-button-base.ng-star-inserted.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>665e4f99-38d3-460f-b6e6-05d64e763582</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary kt-margin-r-10 mat-raised-button mat-button-base ng-star-inserted cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>5476e1c1-63f1-4de2-a091-953c72e4a204</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>mattooltip</name>
+      <type>Main</type>
+      <value>Borrar campos</value>
+      <webElementGuid>8da97b14-30c6-4cfe-94c1-2a5ee69cadc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>cdk-describedby-message-8</value>
+      <webElementGuid>199a5684-c1e1-47a7-9518-df7d46031993</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Limpiar campos</value>
+      <webElementGuid>9e072f1d-445f-4b07-ab60-bfcb45b0494f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_content&quot;)/div[@class=&quot;kt-container kt-grid__item kt-grid__item--fluid kt-container--fluid&quot;]/kt-tarifas-edit[@class=&quot;ng-star-inserted&quot;]/kt-portlet[1]/div[@class=&quot;kt-portlet&quot;]/kt-portlet-header[@class=&quot;kt-portlet__head kt-portlet__head--lg&quot;]/div[@class=&quot;kt-portlet__head-toolbar&quot;]/button[@class=&quot;btn btn-primary kt-margin-r-10 mat-raised-button mat-button-base ng-star-inserted cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>097726a0-9283-47b3-86e6-c661912ac151</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_content']/div/kt-tarifas-edit/kt-portlet/div/kt-portlet-header/div[2]/button[2]</value>
+      <webElementGuid>7dbab93e-a650-4a14-abdc-bb93020156ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Regresar'])[1]/following::button[1]</value>
+      <webElementGuid>c3b02816-6396-46b5-aeed-e89f1260231a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Crear nueva tarifa'])[1]/following::button[2]</value>
+      <webElementGuid>b10162bf-50d5-4a6f-9382-0f73c8828585</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Guardar'])[1]/preceding::button[1]</value>
+      <webElementGuid>d5ff9add-0c57-4efd-9d23-ef56af006df3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//kt-portlet-header/div[2]/button[2]</value>
+      <webElementGuid>7bb942c2-f496-4467-b694-31ffd9eab69b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Limpiar campos' or . = 'Limpiar campos')]</value>
+      <webElementGuid>3aac9c35-3519-4cec-9d1e-6cb9f72b438f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

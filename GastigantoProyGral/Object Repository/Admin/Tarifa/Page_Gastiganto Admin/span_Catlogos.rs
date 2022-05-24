@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Catlogos</name>
+   <tag></tag>
+   <elementGuidId>034dc883-eb03-46ab-b1cf-9d107b00c3f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_header_menu']/ul/li[2]/a/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.kt-menu__link.kt-menu__toggle.item-menu.ng-star-inserted > span.kt-menu__link-text.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f6c658fa-45be-485b-97c9-7832966ab4e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>kt-menu__link-text ng-star-inserted</value>
+      <webElementGuid>99ba1c03-7aff-4df5-a140-e6f56aa0a1b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Catálogos </value>
+      <webElementGuid>070b974b-be53-4777-91d3-0c18b54cb129</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_header_menu&quot;)/ul[@class=&quot;kt-menu__nav&quot;]/li[@class=&quot;kt-menu__item kt-menu__item--submenu kt-menu__item--rel ng-star-inserted kt-menu__item--hover&quot;]/a[@class=&quot;kt-menu__link kt-menu__toggle item-menu ng-star-inserted&quot;]/span[@class=&quot;kt-menu__link-text ng-star-inserted&quot;]</value>
+      <webElementGuid>2e4c3ed8-0f35-4981-ab88-e81989e0f822</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_header_menu']/ul/li[2]/a/span[2]</value>
+      <webElementGuid>d25ac1f4-1cc8-4a74-808f-eb76d9e3e9aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reservaciones'])[1]/following::span[2]</value>
+      <webElementGuid>959b10eb-5aab-4238-a244-4c8d6bfe2504</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Usuarios'])[1]/preceding::span[4]</value>
+      <webElementGuid>f4867e3f-63be-447a-8ee2-b8809d96cf2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Plazas'])[1]/preceding::span[7]</value>
+      <webElementGuid>20b4e274-508b-48ab-80a2-d744fd638773</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Catálogos']/parent::*</value>
+      <webElementGuid>1486a777-0cde-4ce7-8e9f-c4470fbee15f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span[2]</value>
+      <webElementGuid>dc577739-3673-4a89-94de-126bd5da47d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Catálogos ' or . = ' Catálogos ')]</value>
+      <webElementGuid>74bfd76e-a5a8-42c8-aac6-c47821694cee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

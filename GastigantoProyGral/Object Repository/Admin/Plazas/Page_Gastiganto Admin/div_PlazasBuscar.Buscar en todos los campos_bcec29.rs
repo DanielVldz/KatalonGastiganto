@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_PlazasBuscar.Buscar en todos los campos_bcec29</name>
+   <tag></tag>
+   <elementGuidId>0a6764ab-18bc-4d6d-a493-66597f1c2b24</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_content']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.kt-container.kt-grid__item.kt-grid__item--fluid.kt-container--fluid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7058f82a-112d-4b93-a3ff-81cb45862be9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>kt-container kt-grid__item kt-grid__item--fluid kt-container--fluid</value>
+      <webElementGuid>08bedb21-5261-49da-9b77-c54a65b92a57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PlazasBuscar...Buscar en todos los camposPlazaMazatlán    Elementos por página:1001 - 1 de 1</value>
+      <webElementGuid>1f69db86-6705-4fce-b163-0fe89b2a6866</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_content&quot;)/div[@class=&quot;kt-container kt-grid__item kt-grid__item--fluid kt-container--fluid&quot;]</value>
+      <webElementGuid>bae265b4-bd88-44e8-90c9-6ee056d6c230</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_content']/div</value>
+      <webElementGuid>3feeb790-bbc1-4053-834c-34e1987cd5e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cerrar sesión'])[1]/following::div[4]</value>
+      <webElementGuid>b1cc5aad-706a-482e-87e4-d83359d31d92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Administrador Administrador'])[1]/following::div[6]</value>
+      <webElementGuid>2d2aaecf-cc6e-491c-9ee7-e7680d512aea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div</value>
+      <webElementGuid>d7ddb6b6-5185-4508-8a54-5d44959a4b64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'PlazasBuscar...Buscar en todos los camposPlazaMazatlán    Elementos por página:1001 - 1 de 1' or . = 'PlazasBuscar...Buscar en todos los camposPlazaMazatlán    Elementos por página:1001 - 1 de 1')]</value>
+      <webElementGuid>8faadc74-d012-43e4-a18a-7cb479b0d802</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
